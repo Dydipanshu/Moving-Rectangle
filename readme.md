@@ -12,6 +12,12 @@ This project creates an engaging web page with a dynamic rectangle that responds
 
 ![Screenshot](/MovingRectangle.png)
 
+## Live Website
+
+You can interact with the live website by visiting the following link:
+
+[Live Demo](https://movingrectangle.netlify.app/)
+
 ## Features
 
 - **Interactive Rectangle:** The green rectangle on the page moves horizontally based on the position of the mouse cursor.
